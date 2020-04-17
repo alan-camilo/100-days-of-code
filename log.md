@@ -13,9 +13,9 @@
 
 ### Day 1: April 17, 2020
 
-**Today's Progress**: small work on UI, adding a link for Paypal donation
+**Today's Progress**: Small work on UI, and I added a link to Paypal donation.
 
-**Thoughts:** little by little the bird makes its nest
+**Thoughts:** Little by little the bird makes its nest.
 
 **Link to work:** [https://github.com/alan-camilo/paris-respire-app](https://github.com/alan-camilo/paris-respire-app)
 
