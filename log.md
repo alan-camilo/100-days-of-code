@@ -29,6 +29,16 @@
 
 ### Day 3: April 19, 2020
 
+**Today's Progress**: Another big chunk, I redesigned the MVVM classes to use the Moko-MVVM lib.
+
+**Thoughts**: 
+- Moko-MVVM is pretty neat: lifecycle aware and very similar to what is already existing on Android.
+- Coroutines exception handling : I think in most cases it's a best solution to use the usual try/catch exception handler instead of a CoroutineExceptionHandler. Indeed, once a coroutine terminates with an exception, the attached CoroutineScope cannot resume another coroutine.
+
+**Link to work**: [https://github.com/alan-camilo/paris-respire-app](https://github.com/alan-camilo/paris-respire-app)
+
+### Day 4: April 20, 2020
+
 **Today's Progress**: 
 
 **Thoughts**: 
