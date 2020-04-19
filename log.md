@@ -33,7 +33,7 @@
 
 **Thoughts**: 
 - Moko-MVVM is pretty neat: lifecycle aware and very similar to what is already existing on Android.
-- Coroutines exception handling : I think in most cases it's a best solution to use the usual try/catch exception handler instead of a CoroutineExceptionHandler. Indeed, once a coroutine terminates with an exception, the attached CoroutineScope cannot resume another coroutine.
+- Coroutines exception handling : I think in most cases it's a best solution to use the usual try/catch exception handler instead of a CoroutineExceptionHandler. Indeed, once a coroutine terminates with an exception, the attached CoroutineScope cannot resume another coroutine. [Stackoverflow](https://stackoverflow.com/questions/41581548/kotlin-continue-coroutine-after-exception)
 
 **Link to work**: [https://github.com/alan-camilo/paris-respire-app](https://github.com/alan-camilo/paris-respire-app)
 
