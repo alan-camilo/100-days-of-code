@@ -39,6 +39,16 @@
 
 ### Day 4: April 20, 2020
 
+**Today's Progress**: No progress on the TODO list, but I worked on refactoring package names and file names, improving the architecture and fixing a regression on Unit Tests.
+
+**Thoughts**: 
+- Putting the Presenter part from the MVP design pattern into the mpp library is unfortunately not possible.
+- Using an interface is a workaround to mock a class without an existing mocking library for Kotlin multipatform.
+
+**Link to work**: [https://github.com/alan-camilo/paris-respire-app](https://github.com/alan-camilo/paris-respire-app)
+
+### Day 5: April 21, 2020
+
 **Today's Progress**: 
 
 **Thoughts**: 
