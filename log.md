@@ -49,6 +49,14 @@
 
 ### Day 5: April 21, 2020
 
+**Today's Progress**: I improved exception handling related to the network part in module-mpp, and the forecast pollution notification message.
+
+**Thoughts**: Think of every possible exception that can be thrown by your IO classes.
+
+**Link to work**: [https://github.com/alan-camilo/paris-respire-app](https://github.com/alan-camilo/paris-respire-app)
+
+### Day 6: April 22, 2020
+
 **Today's Progress**: 
 
 **Thoughts**: 
