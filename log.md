@@ -42,7 +42,7 @@
 **Today's Progress**: No progress on the TODO list, but I worked on refactoring package names and file names, improving the architecture and fixing a regression on Unit Tests.
 
 **Thoughts**: 
-- Putting the Presenter part from the MVP design pattern into the mpp library is unfortunately not possible.
+- Putting the Presenter part from the MVP design pattern into the mpp library is unfortunately not possible (due to reference to MainActivity::class).
 - Using an interface is a workaround to mock a class without an existing mocking library for Kotlin multipatform.
 
 **Link to work**: [https://github.com/alan-camilo/paris-respire-app](https://github.com/alan-camilo/paris-respire-app)
@@ -56,6 +56,14 @@
 **Link to work**: [https://github.com/alan-camilo/paris-respire-app](https://github.com/alan-camilo/paris-respire-app)
 
 ### Day 6: April 22, 2020
+
+**Today's Progress**: I fixed some bugs, improved the MPV implementation using data binding, and attached to the pending intent of the alert message the 'tomorrow' tab index. No much progress on what really matters on my TODO list.
+
+**Thoughts**: Intent flags are not that obvious.
+
+**Link to work**: [https://github.com/alan-camilo/paris-respire-app](https://github.com/alan-camilo/paris-respire-app)
+
+### Day 7: April 22, 2020
 
 **Today's Progress**: 
 
