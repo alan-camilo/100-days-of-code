@@ -7,7 +7,7 @@
 
 **Today's Progress**: Working on notifications, improving the message and I add an error notification. Starting to work on the logo with my designer.
 
-**Thoughts**: Good communication is nice.
+**Thoughts**: Good communication is nice to have.
 
 **Link to work**: [https://github.com/alan-camilo/paris-respire-app](https://github.com/alan-camilo/paris-respire-app)
 
@@ -64,6 +64,14 @@
 **Link to work**: [https://github.com/alan-camilo/paris-respire-app](https://github.com/alan-camilo/paris-respire-app)
 
 ### Day 7: April 22, 2020
+
+**Today's Progress**: I did not really write code today, I was more into gathering tutorials on Material design and looking for a library to nicely display the global air quality value (found it! [SlimChart](https://github.com/mancj/SlimChart)).
+
+**Thoughts**: Half-day on tutorials about Android design will be necessary.
+
+**Link to work**: [https://github.com/alan-camilo/paris-respire-app](https://github.com/alan-camilo/paris-respire-app)
+
+### Day 8: April 23, 2020
 
 **Today's Progress**: 
 
