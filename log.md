@@ -5,7 +5,7 @@
 
 ### Day 0: April 16, 2020
 
-**Today's Progress**: Working on notifications, improving the message and I add an error notification. Starting to work on the logo with my designer.
+**Today's Progress**: Worked on notifications, improving the message and I added an error notification. Starting to work on the logo with my designer.
 
 **Thoughts**: Good communication is nice to have.
 
@@ -49,7 +49,7 @@
 
 ### Day 5: April 21, 2020
 
-**Today's Progress**: I improved exception handling related to the network part in module-mpp, and the forecast pollution notification message.
+**Today's Progress**: I improved exception handling related to the network part in the module-mpp, and also the forecast pollution notification message.
 
 **Thoughts**: Think of every possible exception that can be thrown by your IO classes.
 
@@ -57,7 +57,7 @@
 
 ### Day 6: April 22, 2020
 
-**Today's Progress**: I fixed some bugs, improved the MPV implementation using data binding, and attached to the pending intent of the alert message the 'tomorrow' tab index. No much progress on what really matters on my TODO list.
+**Today's Progress**: I fixed some bugs, improved the MVP implementation using data binding, and attached to the pending intent of the alert message the 'tomorrow' tab index. No much progress on what really matters on my TODO list.
 
 **Thoughts**: Intent flags are not that obvious.
 
@@ -67,13 +67,24 @@
 
 **Today's Progress**: I did not really write code today, I was more into gathering tutorials on Material design and looking for a library to nicely display the global air quality value (found it! [SlimChart](https://github.com/mancj/SlimChart)).
 
-**Thoughts**: Half-day on tutorials about Android design will be necessary.
+**Thoughts**: Half-day on tutorials about Android Material design will be necessary.
 
 **Link to work**: [https://github.com/alan-camilo/paris-respire-app](https://github.com/alan-camilo/paris-respire-app)
 
 ### Day 8: April 23, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Learning more about material design, built my own Material theme. The content I used for learning:
+- [Setting up a Material Components theme for Android](https://medium.com/over-engineering/setting-up-a-material-components-theme-for-android-fbf7774da739): explains the basics and gives useful resources
+- [MaterialThemeBuilder](https://github.com/material-components/material-components-android-examples/tree/develop/MaterialThemeBuilder): official project example to help you build your Material theme
+- [MDC-101 Android: Material Components (MDC) Basics (Kotlin)](https://codelabs.developers.google.com/codelabs/mdc-101-kotlin/#0): first part of an easy codelab about Android Material Components (buttons and textfields in this one)
+
+**Thoughts**: Today's acquired knwoledge confirms me that the Android Material Components permit to build a modern UI effortlessly.
+
+**Link to work**: [https://github.com/alan-camilo/paris-respire-app](https://github.com/alan-camilo/paris-respire-app)
+
+### Day 9: April 24, 2020
+
+**Today's Progress**:
 
 **Thoughts**: 
 
