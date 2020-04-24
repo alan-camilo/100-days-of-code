@@ -63,7 +63,7 @@
 
 **Link to work**: [https://github.com/alan-camilo/paris-respire-app](https://github.com/alan-camilo/paris-respire-app)
 
-### Day 7: April 22, 2020
+### Day 7: April 23, 2020
 
 **Today's Progress**: I did not really write code today, I was more into gathering tutorials on Material design and looking for a library to nicely display the global air quality value (found it! [SlimChart](https://github.com/mancj/SlimChart)).
 
@@ -71,7 +71,7 @@
 
 **Link to work**: [https://github.com/alan-camilo/paris-respire-app](https://github.com/alan-camilo/paris-respire-app)
 
-### Day 8: April 23, 2020
+### Day 8: April 24, 2020
 
 **Today's Progress**: Learning more about material design, built my own Material theme. The content I used for learning:
 - [Setting up a Material Components theme for Android](https://medium.com/over-engineering/setting-up-a-material-components-theme-for-android-fbf7774da739): explains the basics and gives useful resources
@@ -82,7 +82,7 @@
 
 **Link to work**: [https://github.com/alan-camilo/paris-respire-app](https://github.com/alan-camilo/paris-respire-app)
 
-### Day 9: April 24, 2020
+### Day 9: April 25, 2020
 
 **Today's Progress**:
 
