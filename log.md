@@ -84,6 +84,14 @@
 
 ### Day 9: April 25, 2020
 
+**Today's Progress**: I really made progress today on the improved UI, using the SlimChart to display the global index and having ideas for what to do next.
+
+**Thoughts**: SlimChart is a good lib, but because of the lacking quality of the documentation, it was a pain in the a** to make it work.
+
+**Link to work**: [https://github.com/alan-camilo/paris-respire-app](https://github.com/alan-camilo/paris-respire-app)
+
+### Day 10: April 26, 2020
+
 **Today's Progress**:
 
 **Thoughts**: 
