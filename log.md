@@ -92,6 +92,14 @@
 
 ### Day 10: April 26, 2020
 
+**Today's Progress**: Working on the main fragment style (margins, color, text)
+
+**Thoughts**: null
+
+**Link to work**: [https://github.com/alan-camilo/paris-respire-app](https://github.com/alan-camilo/paris-respire-app)
+
+### Day 11: April 27, 2020
+
 **Today's Progress**:
 
 **Thoughts**: 
