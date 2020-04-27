@@ -13,7 +13,7 @@
 
 ### Day 1: April 17, 2020
 
-**Today's Progress**: Small work on UI, and I added a link to Paypal donation.
+**Today's Progress**: Small work on UI, and I added a link to Paypal for donation.
 
 **Thoughts**: Little by little the bird makes its nest.
 
@@ -21,7 +21,7 @@
 
 ### Day 2: April 18, 2020
 
-**Today's Progress**: Big chunk of work made on the module-mpp, moving the shared preferences on the common part without too much difficulties. The api key is not hardcoded anymore and retrieved from the web.
+**Today's Progress**: Big chunk of work made on the module-mpp, moving the shared preferences into the common part without too much difficulties. The api key is not hardcoded anymore and retrieved from the web.
 
 **Thoughts**: null
 
@@ -39,10 +39,10 @@
 
 ### Day 4: April 20, 2020
 
-**Today's Progress**: No progress on the TODO list, but I worked on refactoring package names and file names, improving the architecture and fixing a regression on Unit Tests.
+**Today's Progress**: No progress on the TODO list, but I worked on refactoring package names and file names, improving the architecture and fixing a regression in Unit Tests.
 
 **Thoughts**: 
-- Putting the Presenter part from the MVP design pattern into the mpp library is unfortunately not possible (due to reference to MainActivity::class).
+- Putting the Presenter part from the MVP design pattern into the mpp library is unfortunately not possible (due to a reference to MainActivity::class).
 - Using an interface is a workaround to mock a class without an existing mocking library for Kotlin multipatform.
 
 **Link to work**: [https://github.com/alan-camilo/paris-respire-app](https://github.com/alan-camilo/paris-respire-app)
@@ -57,7 +57,7 @@
 
 ### Day 6: April 22, 2020
 
-**Today's Progress**: I fixed some bugs, improved the MVP implementation using data binding, and attached to the pending intent of the alert message the 'tomorrow' tab index. No much progress on what really matters on my TODO list.
+**Today's Progress**: I fixed some bugs, improved the MVP implementation using data binding, and attached to the pending intent of the alert message the 'tomorrow' tab index. No much progress on what really matters in my TODO list.
 
 **Thoughts**: Intent flags are not that obvious.
 
@@ -65,9 +65,9 @@
 
 ### Day 7: April 23, 2020
 
-**Today's Progress**: I did not really write code today, I was more into gathering tutorials on Material design and looking for a library to nicely display the global air quality value (found it! [SlimChart](https://github.com/mancj/SlimChart)).
+**Today's Progress**: I did not really write code today, I was more into gathering tutorials about Material design and looking for a library to nicely display the global air quality value (found it! it's [SlimChart](https://github.com/mancj/SlimChart)).
 
-**Thoughts**: Half-day on tutorials about Android Material design will be necessary.
+**Thoughts**: Half-day dedicated to tutorials about Android Material design will be necessary.
 
 **Link to work**: [https://github.com/alan-camilo/paris-respire-app](https://github.com/alan-camilo/paris-respire-app)
 
@@ -76,9 +76,9 @@
 **Today's Progress**: Learning more about material design, built my own Material theme. The content I used for learning:
 - [Setting up a Material Components theme for Android](https://medium.com/over-engineering/setting-up-a-material-components-theme-for-android-fbf7774da739): explains the basics and gives useful resources
 - [MaterialThemeBuilder](https://github.com/material-components/material-components-android-examples/tree/develop/MaterialThemeBuilder): official project example to help you build your Material theme
-- [MDC-101 Android: Material Components (MDC) Basics (Kotlin)](https://codelabs.developers.google.com/codelabs/mdc-101-kotlin/#0): first part of an easy codelab about Android Material Components (buttons and textfields in this one)
+- [MDC-101 Android: Material Components (MDC) Basics (Kotlin)](https://codelabs.developers.google.com/codelabs/mdc-101-kotlin/#0): first part of an easy codelab about Android Material Components (buttons and textfields in the first part)
 
-**Thoughts**: Today's acquired knwoledge confirms me that the Android Material Components permit to build a modern UI effortlessly.
+**Thoughts**: Today's acquired knwoledge confirms me that the Android Material Components permit to build a modern UI with much less efforts.
 
 **Link to work**: [https://github.com/alan-camilo/paris-respire-app](https://github.com/alan-camilo/paris-respire-app)
 
@@ -92,7 +92,7 @@
 
 ### Day 10: April 26, 2020
 
-**Today's Progress**: Working on the main fragment style (margins, color, text)
+**Today's Progress**: Working on the main fragment style (margins, colors, text)
 
 **Thoughts**: null
 
