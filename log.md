@@ -100,9 +100,9 @@
 
 ### Day 11: April 27, 2020
 
-**Today's Progress**: I've made a new display of the pollution details, using a two color circle shape to represent the index of each pollutant.
+**Today's Progress**: I've made a new display for the pollution details, using a two-color circle shape to represent the index of each pollutant.
 
-**Thoughts**: Shape API is kind of weird, I am grateful to stackoverflow to help me make my shape idea possible.
+**Thoughts**: Shape API is kind of weird, I am grateful to stackoverflow to help me make my shape idea possible ;)
 
 **Link to work**: [https://github.com/alan-camilo/paris-respire-app](https://github.com/alan-camilo/paris-respire-app)
 
