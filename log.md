@@ -108,6 +108,14 @@
 
 ### Day 12: April 28, 2020
 
+**Today's Progress**: I struggled to have an UI which really satisfies me, but after some back and forth the app starts to look like something. I trashed the two-color circle shape I've made yesterday to only use SlimCharts.
+
+**Thoughts**: Sometimes I struggle to have a layout as I want because I don't know the right tools (I discovered today chainstyle constraint and group, the latter is very useful). Need to dig into the subject.
+
+**Link to work**: [https://github.com/alan-camilo/paris-respire-app](https://github.com/alan-camilo/paris-respire-app)
+
+### Day 13: April 29, 2020
+
 **Today's Progress**: 
 
 **Thoughts**:
