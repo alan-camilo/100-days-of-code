@@ -120,7 +120,7 @@
 
 **Today's Progress**: I've been tidying up the pile of ideas I had yesterday, I searched the UI components I'll need to achieve this ideas, and coded a little bit to display a drawable error icon when having any kind of error.
 
-**Thoughts**: Big day tomorrow, I am hunger to implemts all the ideas I have!
+**Thoughts**: Big day tomorrow, I am hunger to implements all the ideas I have!
 
 **Link to work**: [https://github.com/alan-camilo/paris-respire-app](https://github.com/alan-camilo/paris-respire-app)
 
@@ -133,6 +133,14 @@
 **Link to work**: [https://github.com/alan-camilo/paris-respire-app](https://github.com/alan-camilo/paris-respire-app)
 
 ### Day 15: May 2, 2020
+
+**Today's Progress**: Ile-de-France global index is now in the RecyclerView. The app displays the map for each 4 indexes inside a DialogFragment.
+
+**Thoughts**: null
+
+**Link to work**: [https://github.com/alan-camilo/paris-respire-app](https://github.com/alan-camilo/paris-respire-app)
+
+### Day 16: May 3, 2020
 
 **Today's Progress**: 
 
