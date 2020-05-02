@@ -124,7 +124,15 @@
 
 **Link to work**: [https://github.com/alan-camilo/paris-respire-app](https://github.com/alan-camilo/paris-respire-app)
 
-### Day 14: May 2, 2020
+### Day 14: May 1, 2020
+
+**Today's Progress**: I implemented a RecyclerView to display the 3 different pollutants. This allows me to add two new features: information on the pollutant thanks to a collapsing textview and the display of the map for the particular pollutant.
+
+**Thoughts**: Feeling a little rusty today. Fist time using ConstraintLayout barrier, it's useful.
+
+**Link to work**: [https://github.com/alan-camilo/paris-respire-app](https://github.com/alan-camilo/paris-respire-app)
+
+### Day 15: May 2, 2020
 
 **Today's Progress**: 
 
