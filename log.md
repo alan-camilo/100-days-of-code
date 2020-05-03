@@ -142,6 +142,14 @@
 
 ### Day 16: May 3, 2020
 
+**Today's Progress**: Implemented the location permission, with a dialog explaining that the user's privacy is fully respected and the geolocation is not saved or shared. Made small work on the UI and the HTTP request package, fixing bugs and regression, adding a request.
+
+**Thoughts**: null
+
+**Link to work**: [https://github.com/alan-camilo/paris-respire-app](https://github.com/alan-camilo/paris-respire-app)
+
+### Day 17: May 4, 2020
+
 **Today's Progress**: 
 
 **Thoughts**:
