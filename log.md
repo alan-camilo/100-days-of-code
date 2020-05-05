@@ -158,8 +158,8 @@
 
 ### Day 18: May 5, 2020
 
-**Today's Progress**: 
+**Today's Progress**: I made progress on the geolocation feature, but then I discovered several bugs and I didn't have the time to finish.
 
-**Thoughts**:
+**Thoughts**: Today was complicated to work on the project, I will finish that feature tomorrow.
 
 **Link to work**: [https://github.com/alan-camilo/paris-respire-app](https://github.com/alan-camilo/paris-respire-app)
