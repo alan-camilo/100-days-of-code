@@ -150,6 +150,14 @@
 
 ### Day 17: May 4, 2020
 
+**Today's Progress**: The application retrieves the INSEE city code for a given location, using the user geolocation and a public api. This will be useful to show to the user the air quality for his location (city scale).
+
+**Thoughts**: I did not work long hours, but I feel like I was very productive.
+
+**Link to work**: [https://github.com/alan-camilo/paris-respire-app](https://github.com/alan-camilo/paris-respire-app)
+
+### Day 18: May 5, 2020
+
 **Today's Progress**: 
 
 **Thoughts**:
