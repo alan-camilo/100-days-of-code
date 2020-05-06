@@ -163,3 +163,17 @@
 **Thoughts**: Today was complicated to work on the project, I will finish that feature tomorrow.
 
 **Link to work**: [https://github.com/alan-camilo/paris-respire-app](https://github.com/alan-camilo/paris-respire-app)
+### Day 19: May 6, 2020
+
+**Today's Progress**: Fixing a lot of bugs, fixing API source for converting ZIP code to INSEE code, fixing NetworkConnectivity exception, finished location feature.
+
+**Thoughts**: A lot of struggling with bugs today.
+
+**Link to work**: [https://github.com/alan-camilo/paris-respire-app](https://github.com/alan-camilo/paris-respire-app)
+### Day 18: May 5, 2020
+
+**Today's Progress**:
+
+**Thoughts**: 
+
+**Link to work**: [https://github.com/alan-camilo/paris-respire-app](https://github.com/alan-camilo/paris-respire-app)
